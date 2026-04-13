@@ -307,10 +307,8 @@ const fr: PartialLocaleType = {
     Access: {
       SaasStart: {
         Title: "Utiliser NextChat AI",
-        Label: "(La solution la plus rentable)",
         SubTitle:
           "Officiellement maintenu par NextChat, prêt à l'emploi sans configuration, prend en charge les derniers grands modèles comme OpenAI o1, GPT-4o et Claude-3.5",
-        ChatNow: "Discuter maintenant",
       },
 
       AccessCode: {

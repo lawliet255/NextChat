@@ -14,6 +14,6 @@ export function trackAuthorizationPageBannerToCPaymentClick() {
   });
 }
 
-export function trackSettingsPageGuideToCPaymentClick() {
-  sendGAEvent("event", "SettingsPageGuideToCPaymentClick", { value: 1 });
-}
+// export function trackSettingsPageGuideToCPaymentClick() {
+//   sendGAEvent("event", "SettingsPageGuideToCPaymentClick", { value: 1 });
+// }

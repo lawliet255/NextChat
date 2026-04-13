@@ -316,11 +316,9 @@ const en: LocaleType = {
     Access: {
       SaasStart: {
         Title: "Use NextChat AI",
-        Label: " (Most Cost-Effective Option)",
         SubTitle:
           "Maintained by NextChat, zero setup needed, unlock OpenAI o1, GPT-4o," +
           " Claude-3.5 and more",
-        ChatNow: "Start Now",
       },
       AccessCode: {
         Title: "Access Code",

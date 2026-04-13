@@ -298,10 +298,8 @@ const tr: PartialLocaleType = {
     Access: {
       SaasStart: {
         Title: "NextChat AI kullanın",
-        Label: "(En maliyet etkin çözüm)",
         SubTitle:
           "NextChat tarafından resmi olarak yönetilmektedir, yapılandırma olmadan hemen kullanıma hazırdır, OpenAI o1, GPT-4o, Claude-3.5 gibi en son büyük modelleri destekler",
-        ChatNow: "Şimdi sohbet et",
       },
 
       AccessCode: {
